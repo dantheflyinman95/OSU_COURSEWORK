@@ -4,3 +4,5 @@ For my senior thesis project at Oregon State University my team designed a syste
 This folder contains the PCB design files, and code for the Bluetooth LE LCD portion of the project. An Adafruit Feather 32u4 Bluefruit LE microcontroller was used to recieve speed sign information from the smartphone via Bluetooth LE, and to control the LCD.
 
 Project Expo Poster: https://drive.google.com/file/d/0B1kezR-yOIHhWG43b0ZLUjYyMTg/view
+
+![alt text](https://github.com/dantheflyinman95/OSU_COURSEWORK/blob/master/bluetooth_le_display/pictures/IMG_6166.JPG)
