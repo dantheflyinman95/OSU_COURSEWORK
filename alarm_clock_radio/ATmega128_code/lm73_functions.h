@@ -1,5 +1,6 @@
-// lm73_functions.h 
-// Roger Traylor 11.27.10
+// lm73_functions.h    
+// Daniel Eisenbach
+// 12.03.2016
 //special defines and functions for the lm73 temperature sensor
 
 #include "twi_master.h"  //my TWCR_START, STOP, NACK, RNACK, SEND

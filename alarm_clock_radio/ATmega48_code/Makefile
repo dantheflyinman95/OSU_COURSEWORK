@@ -1,8 +1,8 @@
-PRG            =mega48_temp
+PRG            =mega48
 
-OBJ            = $(PRG).o twi_master.o uart_functions_m48.o lm73_functions_skel.o
+OBJ            = $(PRG).o twi_master.o uart_functions_mega48.o lm73_functions.o
 
-SRCS            =twi_master.c uart_functions_m48.c lm73_functions_skel.c
+SRCS            =twi_master.c uart_functions_mega48.c lm73_functions.c
 
 MCU_TARGET     = atmega48
 OPTIMIZE       = -O2    # options are 1, 2, 3, s

@@ -1,14 +1,11 @@
 // lm73_functions.c       
-// Roger Traylor 11.28.10
+// Daniel Eisenbach
+// 12.03.2016
 
 #include <util/twi.h>
 #include "lm73_functions_skel.h"
 #include <util/delay.h>
 #include <string.h>
-
-
-//TODO: initalize with more resolution and disable the smb bus timeout
-//TODO: write functions to change resolution, alarm etc.
 
 //********************************************************************************
 

@@ -1,5 +1,6 @@
 // lm73_functions.c       
-// Roger Traylor 11.28.10
+// Daniel Eisenbach
+// 12.03.2016
 
 #include <util/twi.h>
 #include "lm73_functions_skel.h"
